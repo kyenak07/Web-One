@@ -1,0 +1,116 @@
+.col1
+{
+    background-color: red;
+    height: 600px;
+}
+.col2
+{
+    background-color: wheat;
+    height: 600px;
+}
+.q
+{
+    height: 600px;
+}
+.colq
+{
+    height: 600px;
+    background-color: maroon;
+}
+.cole
+{
+    height: 600px;
+    background-color: maroon;
+}
+.colw
+{
+    height: 600px;
+    background-color: darksalmon;
+    padding-left: 350px;
+}
+.roww
+{
+    background: darkslategrey;
+    height: 200px;
+    text-align: center;
+}
+#signup
+{
+    width: 70%;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding: 20px;
+}
+.f {
+    width: 40%;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.up
+{
+    height: 40px;
+    background-color: #23272b;
+}
+.v
+{
+    text-align: center;
+}
+#images
+{
+    background-color: grey;
+}
+h1
+{
+    font-family: Jokerman;
+    color: black;
+    text-align: center;
+}
+.pic
+{
+    padding-top: 40px;
+}
+.x
+{
+    width: 70%;
+    margin-bottom: 05px;
+    border: 3px solid color(black);
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.con
+{
+    background-color: black;
+    height: 600px;
+}
+.cont
+{
+    background-color: white;
+    height: 600px;
+}.sec1
+ {
+     background-color: firebrick;
+     width: 20%;
+     float: left;
+     height: 500px;
+     margin-right: 20px;
+
+ }
+a
+{
+    color: white;
+    text-align: center;
+}
+h2
+{
+    font-weight: bold;
+    font-family: Algerian;
+}
+h3
+{
+    color: red;
+}
+strong
+{
+    color: red;
+}
